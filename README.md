@@ -1,10 +1,10 @@
-#### Alex and Sally's changes:
+#### Alex & Sally's changes:
 
 * Add migration file for user (only has `username`, `email`, `password_hash`)
 * Comment out validations for `first_name` and `last_name` in `User` model
 * Add `/session-viewer` and `/session-clearer` to `index.rb` controller
 
-Updated 2016/10/09
+Updated 2016/10/09 by lexac1 & parkyngj
 
 ----
 
