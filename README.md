@@ -25,3 +25,11 @@ We would love for you to help make the skeleton more awesome, There are three wa
 1. Ask for a bug fix or enhancement!
 2. Submit a pull request for a bug fix or enhancement!
 3. Code review an open pull request!
+
+----
+
+## Sally's changes:
+
+* Add migration file for user (only has `username`, `email`, `password_hash`)
+* Comment out validations for `first_name` and `last_name` in `User` model
+* Add `/session-viewer` and `/session-clearer` to `index.rb` controller
