@@ -4,6 +4,8 @@
 * Comment out validations for `first_name` and `last_name` in `User` model
 * Add `/session-viewer` and `/session-clearer` to `index.rb` controller
 
+Updated 2016/10/09
+
 ----
 
 ### Purpose
