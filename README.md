@@ -7,6 +7,13 @@
 
 Updated 2016/10/12 by parkyngj
 
+#### Ali's changes:
+* Require BCrypt in environment file
+* Add user instance #authenticate? method
+* Add/Require Hirb and Faker
+
+updated 2016/12/10 by thealicat13
+
 ----
 
 ### Purpose
