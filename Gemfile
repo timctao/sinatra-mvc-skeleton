@@ -16,11 +16,6 @@ gem 'bcrypt'
 gem 'shotgun'
 gem 'pry'
 
-# in rake console:
-  # Hirb.enable
-  # => true
-# your tables will now look pretty.
-gem 'hirb'
 gem 'faker'
 
 group :test do
