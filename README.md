@@ -3,8 +3,9 @@
 * Add migration file for user (only has `username`, `email`, `password_hash`)
 * Comment out validations for `first_name` and `last_name` in `User` model
 * Add `/session-viewer` and `/session-clearer` to `index.rb` controller
+* Add timestamps (with null option set to false) to users table migration
 
-Updated 2016/10/09 by lexac1 & parkyngj
+Updated 2016/10/12 by parkyngj
 
 ----
 
