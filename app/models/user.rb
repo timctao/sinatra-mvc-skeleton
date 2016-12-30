@@ -24,4 +24,7 @@ class User < ActiveRecord::Base
     self.email == email && self.password == txt_password
   end
 
+  def some_method_here
+  end
+
 end
